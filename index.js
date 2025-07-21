@@ -13,4 +13,5 @@ function sayBawa(){
 
 function newFeatureAdded(){
     console.log('This is a new feature');
+    console.log("Another feature added");
 }
