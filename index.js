@@ -10,3 +10,7 @@ function canIvote(){
 function sayBawa(){
     console.log(`I am saying Bawa`);
 }
+
+function newFeatureAdded(){
+    console.log('This is a new feature');
+}
