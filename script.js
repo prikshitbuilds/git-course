@@ -4,5 +4,5 @@ for(let i=1;i<arr.size();i++){
     if(arr[i]>maxi){
         maxi=arr[i];
     }
-return maxi;
+console.log(maxi);
 }
