@@ -5,5 +5,8 @@ function sayMyName (){
 }
 
 function canIvote(){
-    return age>=18
+    return age>=1
+}
+function sayBawa(){
+    console.log(`I am saying Bawa`);
 }
